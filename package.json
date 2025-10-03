@@ -1,0 +1,19 @@
+{
+  "name": "ytmp3",
+  "version": "1.0.0",
+  "description": "A Next.js project for YouTube to MP3 conversion",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^14.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "yt-dlp": "^1.4.0"
+  },
+  "author": "Kuldeep Jaipal",
+  "license": "MIT"
+}
